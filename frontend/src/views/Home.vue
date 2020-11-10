@@ -43,7 +43,7 @@
               <b-col sm="3" class="text-sm-right"><b>Instituição:</b></b-col>
               <b-col><b-form-input v-model="row.item.instituicao" placeholder="Edite a instituição"></b-form-input></b-col>
             </b-row>
-            <b-button size="sm" @click="row.toggleDetails"  variant="success">Ok</b-button>
+            <b-button size="sm" @click="row.toggleDetails, null"  variant="success">Ok</b-button>
           </b-card>
         </template>
       </b-table>

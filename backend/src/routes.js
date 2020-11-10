@@ -14,7 +14,7 @@ routes.post('/', userController.insert)
 
 routes.post('/delete/:id', userController.deleteUser)
 
-routes.put('/:id', userController.edit)
+routes.put('/', userController.edit)
 
 
 
