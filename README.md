@@ -1,6 +1,6 @@
 # Techshot-comp
 
-📄 Sobre
+## 📄 Sobre
 Esse repositório tem como intuito servir de base para o techshot de instrução de integração backend - frontend, para os trainees da empresa júnior Comp Júnior. Utilizaremos esse guide para acompanhar o desenvolvimento [**Guide**](https://www.notion.so/TechShot-integra-o-4a38f7b081a642cfb6ea9066875ff45f)
 
 ---
